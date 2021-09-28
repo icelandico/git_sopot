@@ -4,4 +4,4 @@ def example_num(99):
     return number * 1
 
 def example_string(string):
-    return f'My name is {string}'
+    return f'Suck {string} stick'
